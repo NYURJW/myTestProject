@@ -1,3 +1,3 @@
 function hellowWord()
-fprintf('Hello Word');
+fprintf('Hello Word\n');
 end
